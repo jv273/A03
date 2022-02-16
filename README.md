@@ -7,6 +7,7 @@
 6. Go to github.com, create a new repository by clicking "new" on upper left corner
 
 Terms:
+
 Branch - parallel version of a repository
 
 Clone - copy of a repository that lives on your computer instead of on a website's server 
